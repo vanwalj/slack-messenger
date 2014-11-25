@@ -1,2 +1,2 @@
-slack-message-api
+slack-messenger
 =================
